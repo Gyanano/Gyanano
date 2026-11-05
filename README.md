@@ -20,6 +20,8 @@
 白天在 MCU 的寄存器层让硬件醒来，晚上把逻辑铺进浏览器。
 喜欢从硅到像素一气呵成的系统——清晰的抽象、类型安全、能省一字节就省一字节。
 
+*I build systems end to end — from register-level firmware to the browser.*
+
 **04+ 年 · 20+ 项目 · 华南师范大学**
 
 **我在意的三件事**
