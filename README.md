@@ -55,9 +55,9 @@
 
 ## 墨痕 · 近笔
 
-- `2026.05` **[何谓奇门遁甲](https://blog.gyanano.com/blog/qimen-intro)** — 奇、门、遁甲分别指什么，源流与流派
-- `2026.05` **[如何起局](https://blog.gyanano.com/blog/qimen-qiju)** — 时家奇门转盘法的完整起局流程
-- `2026.05` **[五行和阴阳](https://blog.gyanano.com/blog/wuxing-yinyang)** — 阴阳消长、五行生克与旺衰
+- `2026.05.30` **[何谓奇门遁甲](https://blog.gyanano.com/blog/qimen-intro)** — 奇、门、遁甲分别指什么，源流与流派
+- `2026.05.29` **[如何起局](https://blog.gyanano.com/blog/qimen-qiju)** — 时家奇门转盘法的完整起局流程
+- `2026.05.28` **[五行和阴阳](https://blog.gyanano.com/blog/wuxing-yinyang)** — 阴阳消长、五行生克与旺衰
 
 <sub>技术笔记也在写：Python、Keil、Git、开发环境…… → [全部文章](https://blog.gyanano.com/blog)</sub>
 
