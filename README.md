@@ -50,24 +50,30 @@ I like minimal code: clear abstractions, type safety, and careful memory managem
 </tr>
 </table>
 
-## Stack
+## GitHub
 
-**Frontend**&nbsp; `React` `TypeScript` `Tailwind` `Framer Motion` `Next.js`\
-**Backend**&nbsp; `Node.js` `Python` `Go` `PostgreSQL` `Docker`\
-**Embedded**&nbsp; `C / C++` `RTOS` `STM32` `ESP32` `PCB Design`\
-**Tools**&nbsp; `Git` `Linux` `VS Code` `PlatformIO` `Oscilloscopes`
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gyanano&theme=github_dark&hide_logo=true&bg_color=060708&border_color=222327&title_color=eeece6&text_color=b9b6ae&icon_color=5fd4a0&chart_color=5fd4a0" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gyanano&theme=github&hide_logo=true&bg_color=ffffff&border_color=d0d7de&title_color=1f2328&text_color=57606a&icon_color=1a7f5a&chart_color=1a7f5a" width="250" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Gyanano&hide_border=true&background=060708&ring=5fd4a0&fire=5fd4a0&currStreakNum=eeece6&sideNums=eeece6&currStreakLabel=5fd4a0&sideLabels=b9b6ae&dates=85837d&stroke=222327" />
+    <img src="https://streak-stats.demolab.com?user=Gyanano&hide_border=true&background=ffffff&ring=1a7f5a&fire=1a7f5a&currStreakNum=1f2328&sideNums=1f2328&currStreakLabel=1a7f5a&sideLabels=57606a&dates=6e7781&stroke=d0d7de" width="495" alt="GitHub streak" />
+  </picture>
+</p>
 
-## Writing
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gyanano&name=Gyanano&theme=github_dark&bg_color=060708&border_color=222327&title_color=eeece6&text_color=b9b6ae&icon_color=5fd4a0&chart_color=5fd4a0" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gyanano&name=Gyanano&theme=github&bg_color=ffffff&border_color=d0d7de&title_color=1f2328&text_color=57606a&icon_color=1a7f5a&chart_color=1a7f5a" width="700" alt="Contribution summary" />
+  </picture>
+</p>
 
-- `2024-10-01` **[开发环境与工具速记](https://blog.gyanano.com/blog/dev-tools-env-notes)** — notes on IDEA, JetBrains shortcuts, terminal proxies, and KMS
-- `2024-05-11` **[Python 踩坑笔记](https://blog.gyanano.com/blog/python-notes)** — bytes/json/dict conversions, terminal colors, conda
-- `2024-02-29` **[Keil 中把数组定位到指定内存地址](https://blog.gyanano.com/blog/keil-array-at-address)** — placing an array at a fixed address, AC5 → AC6
-
-[All posts →](https://blog.gyanano.com/blog)
-
-## More on GitHub
-
-[Cohort](https://github.com/Gyanano/Cohort) — local-first multi-agent workspace · [LLM_Assistant](https://github.com/Gyanano/LLM_Assistant) — ESP32-C3 voice assistant · [dsh-skill-manager](https://github.com/Gyanano/dsh-skill-manager) — skills & MCP manager for DeepSeek Harness · [wayfinder-dashboard](https://github.com/Gyanano/wayfinder-dashboard) — fuzzy ideas to decision maps · [zlgcan_golang_porting](https://github.com/Gyanano/zlgcan_golang_porting) — Go wrapper for ZLG CAN
+<p align="center">
+  <a href="https://github.com/Gyanano?tab=followers"><img src="https://img.shields.io/github/followers/Gyanano?style=flat-square&logo=github&labelColor=2E2C28&color=5FD4A0" alt="followers" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Gyanano&style=flat-square&color=5FD4A0&label=PROFILE+VIEWS&labelColor=2E2C28" alt="profile views" />
+</p>
 
 ---
 
