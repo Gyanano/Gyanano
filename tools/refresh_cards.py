@@ -259,7 +259,7 @@ def grade_card(stats, theme):
     label(draw, (24 * SS, 32 * SS), "GITHUB RANK", theme)
     display = font("Anybody.ttf", 96 * SS, weight=800, width=112)
     draw_text(draw, (22 * SS, 118 * SS), stats["rank"]["level"], display, theme["ink"], tracking=2 * SS)
-    top = stats["rank"]["percentile"]
+    top = round(stats["rank"]["percentile"])
     mono = font("JetBrainsMono.ttf", 10 * SS, weight=500)
     draw_text(draw, (24 * SS, 152 * SS), "TOP %s%%" % (("%g" % top)), mono, theme["accent"], tracking=2 * SS)
 
@@ -283,9 +283,10 @@ def stats_card(stats, theme):
     width, height = 576, 200
     image, draw = card(width, height, theme)
     label(draw, (24 * SS, 32 * SS), "STATS", theme)
-    commits = ("%.1fk" % (stats["commits"] / 1000)) if stats["commits"] >= 1000 else str(stats["commits"])
+    contributions = stats["contributions"]
+    contributions = ("%.1fk" % (contributions / 1000)) if contributions >= 1000 else "{:,}".format(contributions)
     stat_block(draw, 24 * SS, 92 * SS, "{:,}".format(stats["stars"]), "STARS", theme)
-    stat_block(draw, 300 * SS, 92 * SS, commits, "COMMITS / YEAR", theme)
+    stat_block(draw, 300 * SS, 92 * SS, contributions, "CONTRIBUTIONS / YEAR", theme)
     stat_block(draw, 24 * SS, 166 * SS, "{:,}".format(stats["prs"]), "PULL REQUESTS", theme)
     stat_block(draw, 300 * SS, 166 * SS, "{:,}".format(stats["issues"]), "ISSUES", theme)
     return image
