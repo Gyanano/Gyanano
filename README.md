@@ -8,11 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://blog.gyanano.com">Website</a> ·
-  <a href="https://blog.gyanano.com/work">Work</a> ·
-  <a href="https://blog.gyanano.com/blog">Blog</a> ·
-  <a href="https://github.com/Gyanano?tab=repositories">All repos</a> ·
-  <a href="mailto:1624055384@qq.com">Email</a>
+  <a href="https://blog.gyanano.com">Blog</a>
 </p>
 
 ## About
