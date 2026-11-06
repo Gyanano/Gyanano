@@ -1,0 +1,260 @@
+{
+  "user": "Gyanano",
+  "name": "Gyanano",
+  "followers": 8,
+  "repos": 21,
+  "stars": 46,
+  "commits": 3711,
+  "prs": 59,
+  "issues": 23,
+  "reviews": 5,
+  "contributions": 5078,
+  "current_streak": 26,
+  "longest_streak": 26,
+  "weeks": [
+    {
+      "start": "2025-11-02",
+      "total": 0
+    },
+    {
+      "start": "2025-11-09",
+      "total": 0
+    },
+    {
+      "start": "2025-11-16",
+      "total": 0
+    },
+    {
+      "start": "2025-11-23",
+      "total": 1
+    },
+    {
+      "start": "2025-11-30",
+      "total": 11
+    },
+    {
+      "start": "2025-12-07",
+      "total": 8
+    },
+    {
+      "start": "2025-12-14",
+      "total": 8
+    },
+    {
+      "start": "2025-12-21",
+      "total": 2
+    },
+    {
+      "start": "2025-12-28",
+      "total": 13
+    },
+    {
+      "start": "2026-01-04",
+      "total": 0
+    },
+    {
+      "start": "2026-01-11",
+      "total": 3
+    },
+    {
+      "start": "2026-01-18",
+      "total": 10
+    },
+    {
+      "start": "2026-01-25",
+      "total": 9
+    },
+    {
+      "start": "2026-02-01",
+      "total": 2
+    },
+    {
+      "start": "2026-02-08",
+      "total": 16
+    },
+    {
+      "start": "2026-02-15",
+      "total": 45
+    },
+    {
+      "start": "2026-02-22",
+      "total": 2
+    },
+    {
+      "start": "2026-03-01",
+      "total": 0
+    },
+    {
+      "start": "2026-03-08",
+      "total": 0
+    },
+    {
+      "start": "2026-03-15",
+      "total": 0
+    },
+    {
+      "start": "2026-03-22",
+      "total": 3
+    },
+    {
+      "start": "2026-03-29",
+      "total": 53
+    },
+    {
+      "start": "2026-04-05",
+      "total": 8
+    },
+    {
+      "start": "2026-04-12",
+      "total": 0
+    },
+    {
+      "start": "2026-04-19",
+      "total": 1
+    },
+    {
+      "start": "2026-04-26",
+      "total": 0
+    },
+    {
+      "start": "2026-05-03",
+      "total": 10
+    },
+    {
+      "start": "2026-05-10",
+      "total": 17
+    },
+    {
+      "start": "2026-05-17",
+      "total": 273
+    },
+    {
+      "start": "2026-05-24",
+      "total": 148
+    },
+    {
+      "start": "2026-05-31",
+      "total": 85
+    },
+    {
+      "start": "2026-06-07",
+      "total": 83
+    },
+    {
+      "start": "2026-06-14",
+      "total": 121
+    },
+    {
+      "start": "2026-06-21",
+      "total": 111
+    },
+    {
+      "start": "2026-06-28",
+      "total": 82
+    },
+    {
+      "start": "2026-07-05",
+      "total": 66
+    },
+    {
+      "start": "2026-07-12",
+      "total": 85
+    },
+    {
+      "start": "2026-07-19",
+      "total": 182
+    },
+    {
+      "start": "2026-07-26",
+      "total": 350
+    },
+    {
+      "start": "2026-08-02",
+      "total": 32
+    },
+    {
+      "start": "2026-08-09",
+      "total": 105
+    },
+    {
+      "start": "2026-08-16",
+      "total": 50
+    },
+    {
+      "start": "2026-08-23",
+      "total": 39
+    },
+    {
+      "start": "2026-08-30",
+      "total": 58
+    },
+    {
+      "start": "2026-09-06",
+      "total": 8
+    },
+    {
+      "start": "2026-09-13",
+      "total": 83
+    },
+    {
+      "start": "2026-09-20",
+      "total": 580
+    },
+    {
+      "start": "2026-09-27",
+      "total": 243
+    },
+    {
+      "start": "2026-10-04",
+      "total": 342
+    },
+    {
+      "start": "2026-10-11",
+      "total": 569
+    },
+    {
+      "start": "2026-10-18",
+      "total": 488
+    },
+    {
+      "start": "2026-10-25",
+      "total": 357
+    },
+    {
+      "start": "2026-11-01",
+      "total": 316
+    }
+  ],
+  "languages": [
+    {
+      "name": "C",
+      "bytes": 20870507,
+      "percent": 83.6
+    },
+    {
+      "name": "Rust",
+      "bytes": 1507996,
+      "percent": 6.0
+    },
+    {
+      "name": "TypeScript",
+      "bytes": 1001835,
+      "percent": 4.0
+    },
+    {
+      "name": "Python",
+      "bytes": 840991,
+      "percent": 3.4
+    },
+    {
+      "name": "JavaScript",
+      "bytes": 475883,
+      "percent": 1.9
+    }
+  ],
+  "rank": {
+    "level": "B+",
+    "percentile": 38.9
+  },
+  "generated_at": "2026-11-06 20:25 UTC"
+}
